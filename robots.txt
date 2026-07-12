@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://day99.github.io/BESIPRO.ID/sitemap.xml
